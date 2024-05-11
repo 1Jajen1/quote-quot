@@ -1,0 +1,4 @@
+packages: quote-quot.cabal
+
+with-compiler: <path-to-ghc>/_build/stage1/bin/ghc
+benchmarks: true
